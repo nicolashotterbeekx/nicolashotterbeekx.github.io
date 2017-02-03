@@ -6,6 +6,7 @@ paginate_path: "/posts/page/:num/"
 url: http://nicolashotterbeekx.github.io/
 blog_theme: dark # Or use dark
 
+
 # Optional settings
 
 discus_identifier: # Add your Disqus identifier
